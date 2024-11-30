@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @vishnudin
+- 👋 Hi, I’m Dinesh Perumal
+🌐 Cloud and DevOps Engineer with expertise in AWS, Azure, GCP, Kubernetes, and Terraform.
+💼 Currently working on multi-cloud deployments and CI/CD pipelines.
+
+## Skills
+- 🛠️ Cloud: AWS, Azure, GCP
+- 📦 Containerization: Docker, Kubernetes
+- 🛡️ IaC: Terraform, Ansible
+- 🔍 Monitoring: Prometheus, Grafana
+- 📜 Scripting: Python, Bash
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
